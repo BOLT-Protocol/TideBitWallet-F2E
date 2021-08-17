@@ -12,7 +12,7 @@
                     <li class="nav-item"><a class="nav-link me-lg-3" href="/#features">產品特色</a></li>
                     <li class="nav-item"><a class="nav-link me-lg-3" href="/#features-2">功能特色</a></li>
                 </ul>
-                <a class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" href="#download" data-bs-target="#feedbackModal">
+                <a class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0" data-bs-toggle="modal" href="https://chrome.google.com/webstore/detail/tidebit-wallet/okcjepcmoccgkifglhbofjgohgihdbbd" data-bs-target="#feedbackModal">
                     <span class="d-flex align-items-center">
                         <span class="small">下載</span>
                     </span>
