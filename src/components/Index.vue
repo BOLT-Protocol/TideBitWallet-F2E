@@ -9,7 +9,7 @@
                             <h1 class="display-1 lh-1 mb-3">實現未來應用的加密貨幣錢包</h1>
                             <p class="lead fw-normal text-muted mb-5">去中心化的電子錢包最好的選擇，支援多種 ERC20 Token。</p>
                             <div class="d-flex flex-column flex-lg-row align-items-center">
-                                <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="../assets/img/chrome-web-store.png" alt="..." /></a>
+                                <a class="me-lg-3 mb-4 mb-lg-0" href="https://chrome.google.com/webstore/detail/tidebit-wallet/okcjepcmoccgkifglhbofjgohgihdbbd"><img class="app-badge" src="../assets/img/chrome-web-store.png" alt="..." /></a>
                             </div>
                         </div>
                     </div>
@@ -146,7 +146,7 @@
             <div class="container px-5">
                 <h2 class="text-center text-white font-alt mb-4">Get the Extension now!</h2>
                 <div class="d-flex flex-column flex-lg-row align-items-center justify-content-center">
-                    <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="../assets/img/chrome-web-store.png" alt="..." /></a>
+                    <a class="me-lg-3 mb-4 mb-lg-0" href="https://chrome.google.com/webstore/detail/tidebit-wallet/okcjepcmoccgkifglhbofjgohgihdbbd"><img class="app-badge" src="../assets/img/chrome-web-store.png" alt="..." /></a>
                 </div>
             </div>
         </section>
